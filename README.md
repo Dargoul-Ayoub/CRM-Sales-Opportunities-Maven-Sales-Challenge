@@ -27,8 +27,7 @@ Business intelligence best practices
 Quarterly sales performance tracking
 Team and individual sales agent analytics
 Product conversion rate analysis
-Sales pipeline health monitoring
-Industry sector performance breakdown
+
 
 🙏 Credits & Acknowledgments
 
