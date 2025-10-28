@@ -16,9 +16,13 @@ https://maven-datasets.s3.amazonaws.com/CRM+Sales+Opportunities/CRM+Sales+Opport
 
 This is NOT my original solution - I studied the winning dashboard and recreated it to learn:
 Advanced dashboard design techniques
+
 Professional sales analytics methodology
+
 Data storytelling best practices
+
 Business intelligence best practices
+
 
 
 
