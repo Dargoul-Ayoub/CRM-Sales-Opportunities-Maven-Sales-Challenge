@@ -1,12 +1,13 @@
 CRM Dashboard
 
 
-
-##🔗 Original Dataset:
+🔗 Original Dataset:
 
 https://maven-datasets.s3.amazonaws.com/CRM+Sales+Opportunities/CRM+Sales+Opportunities.zip
 
-##📈 Key Features Recreated
+
+
+📈 Key Features Recreated
 
 Quarterly sales performance tracking
 
@@ -14,7 +15,9 @@ Team and individual sales agent analytics
 
 Product conversion rate analysis
 
-##🎯 Project
+
+
+🎯 Project
 
 
 ![Quarter Sale](https://github.com/user-attachments/assets/a74580f8-fa14-453b-89b3-2feca249677b)
