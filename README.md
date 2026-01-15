@@ -1,23 +1,35 @@
-CRM Dashboard
+# 📊 CRM Dashboard
 
+## 🧾 Project Overview
+This project presents an interactive **CRM Dashboard** designed to analyze and monitor sales opportunities.  
+It provides key insights into sales performance, team efficiency, and product conversion rates to support data-driven decision-making.
 
-🔗 Original Dataset:
+---
 
+## 🔗 Dataset
+**Original Dataset:**  
+📁 CRM Sales Opportunities  
 https://maven-datasets.s3.amazonaws.com/CRM+Sales+Opportunities/CRM+Sales+Opportunities.zip
 
+---
 
+## 📈 Key Features
+- **Quarterly Sales Performance Tracking**  
+  Analyze sales trends and performance across different quarters.
 
-📈 Key Features Recreated
+- **Sales Team & Agent Analytics**  
+  Evaluate team performance as well as individual sales agent contributions.
 
-Quarterly sales performance tracking
+- **Product Conversion Rate Analysis**  
+  Measure and compare conversion rates across products to identify top performers.
 
-Team and individual sales agent analytics
+---
 
-Product conversion rate analysis
+## 🎯 Project Objectives
+- Provide a clear overview of CRM sales data
+- Identify high-performing teams, agents, and products
+- Support strategic decision-making through visual analytics
 
-
-
-🎯 Project
 
 
 ![Quarter Sale](https://github.com/user-attachments/assets/a74580f8-fa14-453b-89b3-2feca249677b)
